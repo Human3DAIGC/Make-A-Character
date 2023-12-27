@@ -75,4 +75,16 @@
 </table>
  
  
+## Citation	
 
+```
+@misc{ren2023makeacharacter,
+      title={Make-A-Character: High Quality Text-to-3D Character Generation within Minutes}, 
+      author={Jianqiang Ren and Chao He and Lin Liu and Jiahao Chen and Yutong Wang and Yafei Song and Jianfang Li and Tangli Xue and Siqi Hu and Tao Chen and Kunkun Zheng and Jianjing Xiang and Liefeng Bo},
+      year={2023},
+      eprint={2312.15430},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+
+```
