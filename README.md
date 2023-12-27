@@ -1,6 +1,6 @@
 # <span style="color:orange">M</span>ake-<span style="color:orange">A</span>-<span style="color:orange">Ch</span>aracter
  
-<a href='https://human3daigc.github.io/MACH/'><img src='https://img.shields.io/badge/Project-Page-Green'></a> 
+<a href='https://human3daigc.github.io/MACH/'><img src='https://img.shields.io/badge/Project-Page-Green'></a>  <a href='https://arxiv.org/pdf/2312.15430.pdf'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a> 
 
 >**Make-A-Character: High Quality Text-to-3D Character Generation within Minutes**<br>
 >Institute for Intelligent Computing, Alibaba Group
