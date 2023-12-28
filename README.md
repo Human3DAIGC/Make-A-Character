@@ -25,7 +25,7 @@ For better visual experience, please visit  <a href='https://human3daigc.github.
 ## Todo
 
 * Integration with Audio2Face 
-* Support for Multiple Styles
+* Support for multiple styles
  
 ## Examples
 
