@@ -1,21 +1,35 @@
 # <span style="color:orange">M</span>ake-<span style="color:orange">A</span>-<span style="color:orange">Ch</span>aracter
  
 <a href='https://human3daigc.github.io/MACH/'><img src='https://img.shields.io/badge/Project-Page-Green'></a>  <a href='https://arxiv.org/pdf/2312.15430.pdf'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a> [![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/watch?v=f6hkGOr_Xrc)
+<a href='https://www.modelscope.cn/studios/XR-3D/InstructDynamicAvatar/summary'><img src='./assets/logo/ms.png'></a> 
+ 
+###  Make-A-Character: High Quality Text-to-3D Character Generation within Minutes
+Institute for Intelligent Computing, Alibaba Group
 
->**Make-A-Character: High Quality Text-to-3D Character Generation within Minutes**<br>
->Institute for Intelligent Computing, Alibaba Group
+## Introduction
+____
 
 
+#### With Make-A-Character, you can effortlessly generate controllable, realistic, animatable 3D characters from text descriptions, which are compatible to standard CG pipelines.
 
 
-## Updates
+<img src="./assets/gif/gen_anim.gif" alt="richdreamer" style="zoom:100%;" />
 
+For more clear visual quality. please visit  <a href='https://human3daigc.github.io/MACH/'><img src='https://img.shields.io/badge/Project-Page-Green'></a> 
+ 
+## 🔥News
+____
 (2023-12) The experience demo of Make-A-Character is coming soon.
- 
-## Overview
 
+<font>**Note: We will continue to update our progress on <b>3D human generation & animation</b> within this repository, please star the project to stay informed with the latest developments.**</font>
 
+## Todo
+____
+* Integration with Audio2Face 
+* Support for Multiple Styles
  
+## Examples
+____
 
 <table style="border: none;">
   <tr>
@@ -75,16 +89,14 @@
 </table>
  
  
-## Citation	
-
+## BibTeX	
+____
 ```
-@misc{ren2023makeacharacter,
-      title={Make-A-Character: High Quality Text-to-3D Character Generation within Minutes}, 
+@article{ren2023makeacharacter,
+      title={Make-A-Character: High Quality Text-to-3D Character Generation within Minutes},
       author={Jianqiang Ren and Chao He and Lin Liu and Jiahao Chen and Yutong Wang and Yafei Song and Jianfang Li and Tangli Xue and Siqi Hu and Tao Chen and Kunkun Zheng and Jianjing Xiang and Liefeng Bo},
       year={2023},
-      eprint={2312.15430},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+      journal = {arXiv preprint arXiv:2312.15430}
 }
 
 ```
