@@ -14,7 +14,7 @@ Institute for Intelligent Computing, Alibaba Group
 
 <img src="./assets/gif/gen_anim.gif" alt="make-a-character" style="zoom:100%;" />
 
-For more clear visual quality. please visit  <a href='https://human3daigc.github.io/MACH/'><img src='https://img.shields.io/badge/Project-Page-Green'></a> 
+For better visual experience, please visit  <a href='https://human3daigc.github.io/MACH/'><img src='https://img.shields.io/badge/Project-Page-Green'></a> 
  
 ## 🔥News
 
