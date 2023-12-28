@@ -18,7 +18,7 @@ For better visual experience, please visit  <a href='https://human3daigc.github.
  
 ## 🔥News
 
-(2023-12) The experience demo of Make-A-Character is coming soon.
+(2023-12)  [Experience Demo](https://www.modelscope.cn/studios/XR-3D/InstructDynamicAvatar/summary) is now available !!!  Have a try 🔥🔥🔥
 
 <font>**Note: We will continue to update our progress on <b>3D human generation & animation</b> within this repository, please star the project to stay informed with the latest developments.**</font>
 
