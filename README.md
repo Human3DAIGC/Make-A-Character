@@ -1,8 +1,9 @@
 # <span style="color:orange">M</span>ake-<span style="color:orange">A</span>-<span style="color:orange">Ch</span>aracter
  
 <a href='https://human3daigc.github.io/MACH/'><img src='https://img.shields.io/badge/Project-Page-Green'></a>  <a href='https://arxiv.org/pdf/2312.15430.pdf'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a> [![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/watch?v=f6hkGOr_Xrc)
-<a href='https://www.modelscope.cn/studios/XR-3D/InstructDynamicAvatar/summary'><img src='./assets/logo/ms.png'></a> 
- 
+<a href='https://www.modelscope.cn/studios/XR-3D/InstructDynamicAvatar/summary'><img src='https://img.shields.io/badge/Demo-Modelscope-blue'></a> 
+<a href='https://huggingface.co/spaces/Human3DAIGC/Make-A-Character'><img src='https://img.shields.io/badge/Demo-HuggingFace-yellow'></a> 
+
 ###  Make-A-Character: High Quality Text-to-3D Character Generation within Minutes
 Institute for Intelligent Computing, Alibaba Group
 
@@ -18,14 +19,14 @@ For better visual experience, please visit  <a href='https://human3daigc.github.
  
 ## 🔥News
 
-(2023-12)  [Experience Demo](https://www.modelscope.cn/studios/XR-3D/InstructDynamicAvatar/summary) is now available !!!  Have a try 🔥🔥🔥
+(2023-12)  [Experience Demo](https://www.modelscope.cn/studios/XR-3D/InstructDynamicAvatar/summary) is now available !!!  Have a try 🔥🔥🔥 if you like it ,:star:
 
 <font>**Note: We will continue to update our progress on <b>3D human generation & animation</b> within this repository, please star the project to stay informed with the latest developments.**</font>
 
 ## Todo
 - [x]  provide hands-on experience on [ModelScope](https://www.modelscope.cn/studios/XR-3D/InstructDynamicAvatar/summary).
-- [ ]  provide hands-on experience on Huggingface.
-- [ ]  Integration with Audio2Face.
+- [x]  provide hands-on experience on [Huggingface](https://huggingface.co/spaces/Human3DAIGC/Make-A-Character).
+- [ ]  support voice-chat video generation.
 
 
 
