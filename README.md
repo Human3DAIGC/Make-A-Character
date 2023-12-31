@@ -15,17 +15,23 @@ Institute for Intelligent Computing, Alibaba Group
 <img src="./assets/gif/gen_anim.gif" alt="make-a-character" style="zoom:100%;" />
 
 For better visual experience, please visit  <a href='https://human3daigc.github.io/MACH/'><img src='https://img.shields.io/badge/Project-Page-Green'></a> 
- 
+
+<font>**Note: Please don't forget to give us a star :star: if you like this project, Thanks!** </font>
+
 ## 🔥News
 
-(2023-12)  [Experience Demo](https://www.modelscope.cn/studios/XR-3D/InstructDynamicAvatar/summary) is now available !!!  Have a try 🔥🔥🔥
+(2023-12-28)  [Experience Demo](https://www.modelscope.cn/studios/XR-3D/InstructDynamicAvatar/summary) is now available !!!  Have a try 🔥🔥🔥 
 
-<font>**Note: We will continue to update our progress on <b>3D human generation & animation</b> within this repository, please star the project to stay informed with the latest developments.**</font>
+(2023-12-24)  Technical report is released.
+
+<font>**We will continue to update our progress on <b>3D human generation & animation</b> within this repository, star the project to stay informed with the latest developments.** </font>
+
+ 
 
 ## Todo
-- [x]  provide hands-on experience on [ModelScope](https://www.modelscope.cn/studios/XR-3D/InstructDynamicAvatar/summary).
-- [ ]  provide hands-on experience on Huggingface.
-- [ ]  Integration with Audio2Face.
+- [x]  providing hands-on experience on [ModelScope](https://www.modelscope.cn/studios/XR-3D/InstructDynamicAvatar/summary).
+- [ ]  providing hands-on experience on Huggingface.
+- [ ]  generating voice-chat video using customized 3D character.
 
 
 
