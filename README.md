@@ -20,11 +20,11 @@ For better visual experience, please visit  <a href='https://human3daigc.github.
 <font>**Note: Please don't forget to give us a star :star: if you like this project, Thanks!** </font>
 
 ## 🔥News
-(2024-3-1)  Audio-driven broadcast [魔搭 Demo](https://www.modelscope.cn/studios/XR-3D/InstructDynamicAvatar/summary)  is now available !!!  Have a try 🔥🔥🔥
+(2024-3-1)  Audio-driven Video Generation [魔搭 Demo](https://www.modelscope.cn/studios/XR-3D/InstructDynamicAvatar/summary)  is now available !!!  Have a try 🔥🔥🔥
 
-(2023-12-31)  [HuggingFace Demo](https://huggingface.co/spaces/Human3DAIGC/Make-A-Character) is now available !!!  Have a try 🔥🔥🔥
+(2023-12-31)  [HuggingFace Demo](https://huggingface.co/spaces/Human3DAIGC/Make-A-Character) is available.
  
-(2023-12-28)  [魔搭 Demo](https://www.modelscope.cn/studios/XR-3D/InstructDynamicAvatar/summary) is now available !!!  Have a try 🔥🔥🔥
+(2023-12-28)  [魔搭 Demo](https://www.modelscope.cn/studios/XR-3D/InstructDynamicAvatar/summary) is available.
 
 (2023-12-24)  Technical report is released.
 
