@@ -20,7 +20,7 @@ For better visual experience, please visit  <a href='https://human3daigc.github.
 <font>**Note: Please don't forget to give us a star :star: if you like this project, Thanks!** </font>
 
 ## 🔥News
-(2025-1-15) Technical report for Make-A-Character 2 is released [Arxiv](https://arxiv.org/abs/2501.07870).
+(2025-1-15) Technical report for [Make-A-Character 2](https://arxiv.org/abs/2501.07870) is released.
 
 (2024-3-1)  Audio-driven Video Generation [魔搭 Demo](https://www.modelscope.cn/studios/XR-3D/InstructDynamicAvatar/summary)  is now available !!!  Have a try 🔥🔥🔥
 
