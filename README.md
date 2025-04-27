@@ -101,7 +101,11 @@ For better visual experience, please visit  <a href='https://human3daigc.github.
     </td>
   </tr>
 </table>
- 
+
+
+## More Works
+Welcome to follow our other interesting works:
+- [Textoon](https://github.com/Human3DAIGC/Textoon) (open-sourced)
  
 ## BibTeX	
 
